@@ -6,7 +6,7 @@
 # Site
 title: Alita's Blogs
 subtitle:
-description:
+description: 热枕之心不可泯灭
 author: Lee Chance
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
 language: zh-Hans
@@ -232,7 +232,7 @@ social_icons:
 
 
 # Sidebar Avatar
-# in directory: /assets/images/avatar.gif
+# in directory: /assets/images/Shally.jpg
 #avatar:/assets/images/boy.png
 
 
@@ -524,8 +524,8 @@ rating:
 # You can visit https://leancloud.cn get AppID and AppKey.
 leancloud_visitors:
   enable: true
-  app_id: UJIWcdGSLqGsdT8BbmSPX4Bq-gzGzoHsz
-  app_key: p01dmPAoo3aXjU9u3kKHWTmq
+  app_id: LoscLyqvsD6F852lqo3VYAz0-gzGzoHsz
+  app_key: 3K6JCelbj01eWsTEtQkXa6vA
 
 # Show PV/UV of the website/page with busuanzi.
 # Get more information on http://ibruce.info/2015/04/04/busuanzi/
