@@ -234,7 +234,7 @@ social_icons:
 # Sidebar Avatar
 # in directory: /assets/images/avatar.gif
 #avatar:
-avatar:/images/Shally.png
+avatar:/assets/images/Shally.png
 
 # Table Of Contents in the Sidebar
 toc:
