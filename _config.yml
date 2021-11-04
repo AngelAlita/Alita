@@ -233,7 +233,7 @@ social_icons:
 
 # Sidebar Avatar
 # in directory: /assets/images/Shally.jpg
-#avatar:/assets/images/boy.png
+#avatar: /assets/images/boy.png
 
 
 # Table Of Contents in the Sidebar
