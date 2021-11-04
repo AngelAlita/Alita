@@ -1,9 +1,6 @@
 ---
 title: Hello World
-layout: page
 tags:
-type: tags
-comments: false
 categories: Testing
 ---
 
