@@ -41,7 +41,9 @@ exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", "
 ## 'pygments' is unsupported on GitHub Pages now.
 highlighter: rouge
 highlight:
+  enable: true
   line_number: true
+  auto_detect: true
 
 #### Markdown Processors
 ## 'redcarpet' is unsupported on GitHub Pages now.
